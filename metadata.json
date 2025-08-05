@@ -1,0 +1,6 @@
+{
+  "name": "Language Detector & Reminder",
+  "description": "An intelligent app that automatically detects the language of your notes or emails and lets you set smart reminders in a single tap.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
